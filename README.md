@@ -7,3 +7,4 @@ Download it here: https://chrome.google.com/webstore/detail/fcfbiichpmfmifkogaek
 ## Submitting PRs
 
 If you would like to submit work to this extension, please fork the repo. All work is done in the `src` directory.
+.
